@@ -1,5 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://snehit221:root1234@clusterdatalab.sgymx8h.mongodb.net/AppUsers
-
